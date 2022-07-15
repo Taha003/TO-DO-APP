@@ -1,0 +1,17 @@
+body{
+    background: linear-gradient(110deg,#0d97a4 ,#1C2833 
+    );
+}
+div.card{
+    background: linear-gradient(110deg,#0d97a4 ,#1C2833 
+    ) !important;
+}
+
+ button:hover{
+    color:black !important;
+    padding: 7px !important;
+} 
+
+#notes{
+    color:white
+}
